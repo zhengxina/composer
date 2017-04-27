@@ -1,0 +1,14 @@
+{
+  "name": "zhengxina/composer",
+  "description": "a test",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "nana",
+      "email": "283029986@qq.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {}
+}
